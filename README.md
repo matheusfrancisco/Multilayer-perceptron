@@ -23,6 +23,6 @@ alfabeto Braile. A entrada da RNA deverá ser o símbolo que se quer reconhecer 
 do símbolo. :</b>
 
 
-Pdf explicando o trabalho  [on GitHub]() 
+Pdf explicando o trabalho  [on GitHub](https://github.com/matheusfrancisco/Multilayer-perceptron/blob/master/Sistema%20Braille.pdf) 
 
 
